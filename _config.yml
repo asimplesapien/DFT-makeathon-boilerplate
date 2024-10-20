@@ -25,7 +25,7 @@ tracking:
 
 # Let people connect & engage with you through social media.
 social:
-  twitter_handle: "MLHacks"
+  twitter_handle: "duen_davis"
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
@@ -37,8 +37,8 @@ seo:
 event:
   name:        "Example Hacks"
   description: "This is a sample hackathon website that you can use by following instructions on GitHub."
-  date:        "5 - 6 August 2022"
-  location:    "Holmdel, NJ, United States"
+  date:        "8 - 11 November 2024"
+  location:    "Davis, CA, United States"
 
   trust_badge:
     year:   "2017"  # season year
